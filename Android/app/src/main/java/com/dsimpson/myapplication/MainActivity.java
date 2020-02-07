@@ -10,8 +10,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        GriseldaMember BennyTheButhcher = new GriseldaMember();
+        GriseldaMember BennyTheButcher = new GriseldaMember();
         GriseldaMember ConwayTheMachine = new GriseldaMember();
         GriseldaMember WestsideGunn = new GriseldaMember();
+        GriseldaMember Daringer = new GriseldaMember();
     }
 }
